@@ -4,7 +4,6 @@
 import React from "react";
 import "./Navbar.css";
 
-class Navbar extends Component {
     render() {
         return (
             <nav className="navbar navbar-default navbar-fixrd-top">
@@ -16,6 +15,5 @@ class Navbar extends Component {
             </nav>
         );
     }
-}
 
 export default Navbar;
