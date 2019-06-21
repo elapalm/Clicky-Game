@@ -23,28 +23,22 @@ class App extends Component {
     //
     if (AlreadyClicked) {
       this.setState({
-        vGames: this.state.vGames.sort(function (a, b) {
+        vGames: this.state.Videogames.sort(function (a, b) {
           return 1 - Math.random();
         }),
         clickedImage: [],
         score: 0
-      })
-    }
-    alert("You lost. Please play agin");
-
-    //
-    () => {
-      if (this.state.score === 12) {
-        alert("Woohoo! You won!!!");
-        this.setState({
-          fish: this.state.vGames.sort(function (a, b) {
-            return 0.5 - Math.random();
+      });
+      alert("You lost. Please play agin");
+    } else {
+      this.state(
+        {
+          Videogames: this.state.Videogames.sort(function(){
+            return .5 - Math.random();
           }),
-          clickedImage: [],
-          score: 0
-        });
-      }
+          clickedImage: this.state.clickedImage.contact(
+            currentImg
+          )
+        }
+      )
     }
-  )};
-};
-export default App;
