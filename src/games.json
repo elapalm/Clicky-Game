@@ -1,58 +1,58 @@
 [{
     "id": 1,
-    "image": 
+    "image": "/images/crash.jpeg"
   },
   {
     "id": 2,
-    "image": 
+    "image": "/images/donkeykong.jpeg"
   },
   {
     "id": 3,
 
-    "image": 
+    "image": "/images/halo.jpeg"
   },
   {
     "id": 4,
-    "image": 
+    "image": "/images/legendsofzelda.jpeg"
   },
   {
     "id": 5,
-    "image": 
+    "image": "/images/mario.jpeg"
   },
   {
     "id": 6,
-    "image": 
+    "image": "/images/streetfighter.jpeg"
 
   },
   {
     "id": 7,
-    "image": 
+    "image": "/images/minesweepe.jpeg"
 
   },
   {
     "id": 8,
-    "image": 
+    "image": "/images/mortalkombat.jpeg"
 
   }
     {
     "id": 9,
-    "image": 
+    "image": "/images/sonic.jpeg"
 
   }
     {
     "id": 10,
-    "image": 
+    "image": "/images/pokemon.jpeg"
 
   }
       {
     "id": 11,
-    "image": 
+    "image": "/images/pong.jpeg"
 
   }
   
       {
     "id": 12,
-    "image": 
+    "image": "/images/skylanders.jpeg"
 
   }
   
